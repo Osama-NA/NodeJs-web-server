@@ -1,3 +1,5 @@
-# Simple-Web-Server  
+# NodeJs web server
   
-Creating a simple web server with Node.Js
+Create a simple web server using Node.Js
+
+###### ** For practice purposes **
